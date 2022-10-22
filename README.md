@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soumyapallebothula
-- 👀 I’m interested in learning and exploring Big data use cases
-- 🌱 I’m currently learning Big data and Data Integration
-- 💞️ I’m looking to collaborate on Big Data , ETL , AWS Cloud
+- 👀 I’m interested in learning and exploring Big data use cases.
+- 🌱 I’m currently learning Big data and Data Integration.
+- 💞️ I’m looking to collaborate on Big Data , ETL , AWS Cloud projects.
 - 📫 Can reach me at LinkedIn:https://www.linkedin.com/in/soumya-pallebothula-803488188/
 
 <!---
